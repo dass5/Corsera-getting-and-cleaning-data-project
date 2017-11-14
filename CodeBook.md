@@ -16,9 +16,11 @@ Variable Names:
 
 tBodyaccelerometermeanX          
 tBodyaccelerometermeanY 
+
 tBodyaccelerometermeanZ  
 tBodyaccelerometerstdX    
-tBodyaccelerometerstdY           
+tBodyaccelerometerstdY 
+
 tBodyaccelerometerstdZ            
 tGravityaccelerometermeanX       
 tGravityaccelerometermeanY 
