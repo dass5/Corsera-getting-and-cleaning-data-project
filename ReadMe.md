@@ -4,13 +4,13 @@ The R script called run_analysis.R does the following.
 
 Download the dataset if it does not already exist in the working directory.The dataset contains test set and train set.
 
-Loads train/X_train.txt which contains all the meseaurements.
+Loads train/X_train.txt which contains all the meseaurements for training set.
 
-Assigns the variable names from features.txt
+Assigns the variable names to the training dataset from features.txt
 
-Loads the subjects from train/subject_train.txt
+Loads the subjects from train/subject_train.txt and assigns these to training set
 
-Loads activity Id for each measurement from train/y_train.txt
+Loads activity Id for each measurement for test dataset from train/y_train.txt
 
 Loads test/X_test.txt which contains all the test meseaurements.
 
