@@ -4,6 +4,7 @@ A 68-feature vector with average of each variable(mean and standard deviation of
 Subject :An identifier of the subject who carried out the experiment.There are total 30 subjects.
 
 Activity Name: There are six activity labels.
+
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
