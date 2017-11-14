@@ -20,10 +20,10 @@ tBodyaccelerometermeanY
 tBodyaccelerometermeanZ  
 tBodyaccelerometerstdX    
 tBodyaccelerometerstdY 
-
 tBodyaccelerometerstdZ            
 tGravityaccelerometermeanX       
 tGravityaccelerometermeanY 
+
 tGravityaccelerometermeanZ      
 tGravityaccelerometerstdX        
 tGravityaccelerometerstdY       
