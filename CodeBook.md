@@ -20,6 +20,7 @@ tBodyaccelerometermeanY
 tBodyaccelerometermeanZ  
 tBodyaccelerometerstdX    
 tBodyaccelerometerstdY 
+
 tBodyaccelerometerstdZ            
 tGravityaccelerometermeanX       
 tGravityaccelerometermeanY 
@@ -75,8 +76,10 @@ fBodyGyrostdX
 fBodyGyrostdY                     
 fBodyGyrostdZ                    
 fBodyaccelerometerMagmean         
-fBodyaccelerometerMagstd          
+fBodyaccelerometerMagstd    
+
 fBodyBodyaccelerometerJerkMagmean
+
 fBodyBodyaccelerometerJerkMagstd  
 fBodyBodyGyroMagmean              
 fBodyBodyGyroMagstd              
